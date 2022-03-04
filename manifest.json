@@ -1,0 +1,248 @@
+{
+  "minecraft": {
+    "version": "1.18.1",
+    "modLoaders": [
+      {
+        "id": "forge-39.1.0",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "The Gang 2",
+  "author": "",
+  "files": [
+    {
+      "projectID": 475117,
+      "fileID": 3567088,
+      "required": true
+    },
+    {
+      "projectID": 453746,
+      "fileID": 3651425,
+      "required": true
+    },
+    {
+      "projectID": 297038,
+      "fileID": 3561106,
+      "required": true
+    },
+    {
+      "projectID": 306770,
+      "fileID": 3630725,
+      "required": true
+    },
+    {
+      "projectID": 309927,
+      "fileID": 3661868,
+      "required": true
+    },
+    {
+      "projectID": 361579,
+      "fileID": 3644347,
+      "required": true
+    },
+    {
+      "projectID": 563928,
+      "fileID": 3619749,
+      "required": true
+    },
+    {
+      "projectID": 368293,
+      "fileID": 3649485,
+      "required": true
+    },
+    {
+      "projectID": 431725,
+      "fileID": 3624652,
+      "required": true
+    },
+    {
+      "projectID": 241160,
+      "fileID": 3549513,
+      "required": true
+    },
+    {
+      "projectID": 486392,
+      "fileID": 3623314,
+      "required": true
+    },
+    {
+      "projectID": 400085,
+      "fileID": 3657200,
+      "required": true
+    },
+    {
+      "projectID": 283644,
+      "fileID": 3647860,
+      "required": true
+    },
+    {
+      "projectID": 282001,
+      "fileID": 3606346,
+      "required": true
+    },
+    {
+      "projectID": 492574,
+      "fileID": 3544398,
+      "required": true
+    },
+    {
+      "projectID": 250363,
+      "fileID": 3642382,
+      "required": true
+    },
+    {
+      "projectID": 531761,
+      "fileID": 3658029,
+      "required": true
+    },
+    {
+      "projectID": 422301,
+      "fileID": 3640344,
+      "required": true
+    },
+    {
+      "projectID": 566700,
+      "fileID": 3657196,
+      "required": true
+    },
+    {
+      "projectID": 546841,
+      "fileID": 3570790,
+      "required": true
+    },
+    {
+      "projectID": 513688,
+      "fileID": 3606078,
+      "required": true
+    },
+    {
+      "projectID": 577805,
+      "fileID": 3656990,
+      "required": true
+    },
+    {
+      "projectID": 317780,
+      "fileID": 3646989,
+      "required": true
+    },
+    {
+      "projectID": 426558,
+      "fileID": 3650308,
+      "required": true
+    },
+    {
+      "projectID": 378609,
+      "fileID": 3550443,
+      "required": true
+    },
+    {
+      "projectID": 243121,
+      "fileID": 3662309,
+      "required": true
+    },
+    {
+      "projectID": 522875,
+      "fileID": 3544668,
+      "required": true
+    },
+    {
+      "projectID": 271492,
+      "fileID": 3561102,
+      "required": true
+    },
+    {
+      "projectID": 566866,
+      "fileID": 3666607,
+      "required": true
+    },
+    {
+      "projectID": 313970,
+      "fileID": 3647864,
+      "required": true
+    },
+    {
+      "projectID": 263420,
+      "fileID": 3647010,
+      "required": true
+    },
+    {
+      "projectID": 448233,
+      "fileID": 3642143,
+      "required": true
+    },
+    {
+      "projectID": 328085,
+      "fileID": 3623348,
+      "required": true
+    },
+    {
+      "projectID": 484954,
+      "fileID": 3642696,
+      "required": true
+    },
+    {
+      "projectID": 440845,
+      "fileID": 3650537,
+      "required": true
+    },
+    {
+      "projectID": 256717,
+      "fileID": 3616324,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 3599262,
+      "required": true
+    },
+    {
+      "projectID": 368098,
+      "fileID": 3642415,
+      "required": true
+    },
+    {
+      "projectID": 233019,
+      "fileID": 3543562,
+      "required": true
+    },
+    {
+      "projectID": 250419,
+      "fileID": 3615621,
+      "required": true
+    },
+    {
+      "projectID": 439890,
+      "fileID": 3623542,
+      "required": true
+    },
+    {
+      "projectID": 274259,
+      "fileID": 3601938,
+      "required": true
+    },
+    {
+      "projectID": 331936,
+      "fileID": 3642713,
+      "required": true
+    },
+    {
+      "projectID": 398521,
+      "fileID": 3615366,
+      "required": true
+    },
+    {
+      "projectID": 560323,
+      "fileID": 3580119,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3626712,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
