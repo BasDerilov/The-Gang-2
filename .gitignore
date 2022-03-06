@@ -1,0 +1,17 @@
+#directories with cached mod data
+libraries/
+logs/
+patchouli_books/
+
+#world save file directory
+world/
+
+#server generated files
+banned-ips.json
+banned-players.json
+eula.txt
+ops.json
+server.properties
+usercache.json
+whitelist.json
+*.log
