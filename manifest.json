@@ -11,6 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "The Gang 2",
+  "version": "1.0",
   "author": "",
   "files": [
     {
@@ -164,11 +165,6 @@
       "required": true
     },
     {
-      "projectID": 448233,
-      "fileID": 3642143,
-      "required": true
-    },
-    {
       "projectID": 328085,
       "fileID": 3623348,
       "required": true
@@ -204,23 +200,23 @@
       "required": true
     },
     {
-      "projectID": 439890,
-      "fileID": 3623542,
-      "required": true
-    },
-    {
       "projectID": 250419,
       "fileID": 3615621,
       "required": true
     },
     {
-      "projectID": 331936,
-      "fileID": 3642713,
+      "projectID": 439890,
+      "fileID": 3623542,
       "required": true
     },
     {
       "projectID": 274259,
       "fileID": 3601938,
+      "required": true
+    },
+    {
+      "projectID": 331936,
+      "fileID": 3642713,
       "required": true
     },
     {
