@@ -11,7 +11,6 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "The Gang 2",
-  "version": "1.0",
   "author": "",
   "files": [
     {
@@ -25,8 +24,18 @@
       "required": true
     },
     {
+      "projectID": 254284,
+      "fileID": 3650214,
+      "required": true
+    },
+    {
       "projectID": 297038,
       "fileID": 3561106,
+      "required": true
+    },
+    {
+      "projectID": 324717,
+      "fileID": 3681458,
       "required": true
     },
     {
@@ -37,6 +46,11 @@
     {
       "projectID": 309927,
       "fileID": 3661868,
+      "required": true
+    },
+    {
+      "projectID": 238551,
+      "fileID": 3631821,
       "required": true
     },
     {
@@ -61,7 +75,7 @@
     },
     {
       "projectID": 486392,
-      "fileID": 3623314,
+      "fileID": 3687357,
       "required": true
     },
     {
@@ -96,7 +110,7 @@
     },
     {
       "projectID": 422301,
-      "fileID": 3640344,
+      "fileID": 3693291,
       "required": true
     },
     {
@@ -116,17 +130,12 @@
     },
     {
       "projectID": 577805,
-      "fileID": 3656990,
+      "fileID": 3694576,
       "required": true
     },
     {
       "projectID": 317780,
       "fileID": 3646989,
-      "required": true
-    },
-    {
-      "projectID": 426558,
-      "fileID": 3650308,
       "required": true
     },
     {
@@ -145,6 +154,16 @@
       "required": true
     },
     {
+      "projectID": 495476,
+      "fileID": 3662350,
+      "required": true
+    },
+    {
+      "projectID": 312040,
+      "fileID": 3668346,
+      "required": true
+    },
+    {
       "projectID": 271492,
       "fileID": 3561102,
       "required": true
@@ -152,6 +171,11 @@
     {
       "projectID": 566866,
       "fileID": 3666607,
+      "required": true
+    },
+    {
+      "projectID": 548647,
+      "fileID": 3570058,
       "required": true
     },
     {
@@ -166,7 +190,7 @@
     },
     {
       "projectID": 328085,
-      "fileID": 3623348,
+      "fileID": 3687358,
       "required": true
     },
     {
@@ -176,7 +200,7 @@
     },
     {
       "projectID": 440845,
-      "fileID": 3650537,
+      "fileID": 3679877,
       "required": true
     },
     {
@@ -195,13 +219,18 @@
       "required": true
     },
     {
+      "projectID": 257814,
+      "fileID": 3650213,
+      "required": true
+    },
+    {
       "projectID": 233019,
       "fileID": 3543562,
       "required": true
     },
     {
       "projectID": 250419,
-      "fileID": 3615621,
+      "fileID": 3636901,
       "required": true
     },
     {
@@ -231,7 +260,7 @@
     },
     {
       "projectID": 248787,
-      "fileID": 3626712,
+      "fileID": 3686482,
       "required": true
     }
   ],
