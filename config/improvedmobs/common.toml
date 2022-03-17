@@ -30,7 +30,7 @@
 	#PLAYERMAX: Maximum difficulty of players in a 256 radius around the position
 	#PLAYERMEAN: Average difficulty of players in a 256 radius around the position
 	#Allowed Values: GLOBAL, PLAYERMAX, PLAYERMEAN
-	"Difficulty type" = "GLOBAL"
+	"Difficulty type" = "PLAYERMEAN"
 
 #Black/Whitelist for various stuff
 [list]
@@ -175,7 +175,7 @@
 	"Health Increase Multiplier" = 1.0
 	#Health will be multiplied by at maximum this. Set to 0 means no limit
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Max Health Increase" = 5.0
+	"Max Health Increase" = 2.0
 	#Round health to the nearest x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Round HP" = 0.5
@@ -184,10 +184,10 @@
 	"Damage Increase Multiplier" = 1.0
 	#Damage will be multiplied by at maximum this. Set to 0 means no limit
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Max Damage Increase" = 3.0
+	"Max Damage Increase" = 2.0
 	#Speed will be increased by difficulty*0.0008*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Speed Increase" = 1.0
+	"Speed Increase" = 0.5
 	#Maximum increase in speed
 	#Range: 0.0 ~ 1.0
 	"Max Speed" = 0.1
