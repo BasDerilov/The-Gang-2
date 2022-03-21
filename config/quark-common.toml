@@ -1214,7 +1214,7 @@
 
 		[mobs.shiba.spawn_config]
 			#Allowed values: (0,)
-			"Spawn Weight" = 40
+			"Spawn Weight" = 20
 			#Allowed values: [1,)
 			"Min Group Size" = 1
 			#Allowed values: [1,)
